@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rigsentry-Non-Divisible-Subset/1.0.0": {
+        "runtime": {
+          "Rigsentry-Non-Divisible-Subset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rigsentry-Non-Divisible-Subset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

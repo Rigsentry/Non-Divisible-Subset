@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\bin\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Non-Divisible-Subset\Rigsentry-Non-Divisible-Subset2\Rigsentry-Non-Divisible-Subset\obj\Debug\netcoreapp3.1\Rigsentry-Non-Divisible-Subset.genruntimeconfig.cache
